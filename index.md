@@ -114,101 +114,101 @@ Tutuista palikoista kootun uuden kokoonpanon toimivuutta testattiin pyöräyttä
 
 ## Ykköstenorit
 
-![](http://aanipaat.net/photos/aanipaat/pienet/juha_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/juha_pieni.jpg) <br />
 **Juha "Juhis" Järvelä**<br />
 Juha ei kanna kivirekiä perässään vaan hyppää issekki kyythin. Juhan mottona: "Näläkä kasvaa toisten syöresä."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/jussi_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/jussi_pieni.jpg) <br />
 **Jussi "Jüssi" Koivumäki**<br />
 Jussi, veljistä viisain, porukan järjenääni, joka pitää hommat käsissä ja suitset suussa. Jussin motto: "Ei täsä palavan jäniksen seläsä olla!"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/terol_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/terol_pieni.jpg) <br />
 **Tero "Teitsi" Lindholm**<br />
 Tero on niin taitava muusikko, että tekee jokaisessa ruokapöytäkeskustelussa modulaation – alaspäin. Teron tunnuslause: "Menthin törkiän kolokosti meshän ja vissa löi törkiän kolokosti oshan!"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/jape_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/jape_pieni.jpg) <br />
 **Jari "Jape" Torppa**<br />
 Kun etsitään joukon suurinta torppaa, kääntyvät katseet Japeen. Motto: "Mikäs täsä valamhisa maailmasa!"
 
 
 ## Kakkostenorit
 
-![](http://aanipaat.net/photos/aanipaat/pienet/terohy_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/terohy_pieni.jpg) <br />
 **Tero "Jaffa" Hyväluoma**<br />
 Sai kuoroon kiintiöpatanalaisen paikan. Mutta huomathin, että hetkö patanalaisia on porukasa kaks, rupiaa niiren jutut keskittyhän vain Kyläkaupan asioihin.<br />
 Motto: "Haiseeko henki?"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/tommi_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/tommi_pieni.jpg) <br />
 **Tommi "Tommi" Järvelä**<br />
 Sanasta Tommi, on tullut Äänipäissä jo käsite. Eikä vähiten Tommin ansiosta. Kun homma toimii, Tommi sanoo: "Homma toimii!"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/miika_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/miika_pieni.jpg) <br />
 **Miika "Kuningas" Kangas**<br />
 Miika on kuningas, paitsi sillon, kun ei oo fiilista. Miikan tunnuslauseena: "Issensä näkönen kö kissa."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/tarmo_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/tarmo_pieni.jpg) <br />
 **Tarmo "Tare" Läspä**<br />
 Jostain kumman syystä kakkostenorit ovat muita Äänipäitä hedelmällisempiä. Tähän Tarmo onkin osuvasti todennut: "Se, mitä ennen juhannusta sataa, sataa laarhin."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/juho_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/juho_pieni.jpg) <br />
 **Juho-Matti "Motti" Norrena**<br />
 Aika moni tietää, mitä satiaiset sano ko joutu piiritetyks? Vain yksi tietää miltä se tuntuu. Motto: "Ihannenaisella on koriat silimät ja tekee lämpimän paskan."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/mikko_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/mikko_pieni.jpg) <br />
 **Mikko "Supermies" Nygård**<br />
 Mikko on mies läheltä luontoa ja tokaiseekin usein: "Mikko ko käskee, se saa vaikka messän istuuntuhan."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/riku_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/riku_pieni.jpg) <br />
 **Riku "Riksa" Seppälä**<br />
 Rikulla on joskus huono muisti ja sillon Rikua pitää muistuttaa, että sulla on nyt soolo menossa. Rikun motto: "Renkimies, ko pellolla seisoo ja ojhan kusee."
 
 
 ## Ykkösbassot
 
-![](http://aanipaat.net/photos/aanipaat/pienet/matiash_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/matiash_pieni.jpg) <br />
 **Matias "Madde" Haavisto**<br />
 Matiasta näkee, tai kuulee, harvoin, mutta kun näkee, tai kuulee, ei voi olla huomaamatta. Motto: "Minä laitoin ikkunaan paffisuojan, että edes jossakin lämmin ois."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/kristian_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/kristian_pieni.jpg) <br />
 **Kristian "Krisse" Jäger**<br />
 Kukapa ei tykkäisi olla kalsareissa, mutta tämä mies saa siitä palkkaa. Krissen elämänlankana: "Mikä pitsa!? Se on juustopiirakka Puusaaresa!"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/kari_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/kari_pieni.jpg) <br />
 **Kari "Karpov" Kalliokoski**<br />
 Ihmiskunnan historiassa on vain muutamia ihmisiä, jotka ovat maksaneet paikallisbussin kyydistä 5,60. Kari on eräs heistä. Samalla kuoron taiteellinen johtaja: "Puolet paskaa niinku Toholammin tytön pierusa."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/sami_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/sami_pieni.jpg) <br />
 **Sami "Don" Pajukangas**<br />
 Juttu kuin juttu, Don hoitaa homman, no ei nyt senthän ihan kaikkea. Mottona: "Nyt laulethan rehevällä tunthella".
 
-![](http://aanipaat.net/photos/aanipaat/pienet/matiast_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/matiast_pieni.jpg) <br />
 **Matias "Jaaka" Tyni**<br />
 Matias on taskulaulamisen mestari ja toteaakin usein: "hnngh" nenäänsä pidellen. Matias on myös tosi puhdas laulaja, mutta hänen äänensä hieman vuotaa, saataraviete! Ja suuääniki vuotaa! Matiaksen mottona: "semmosta"<br />
 
 
 ## Kakkosbassot
 
-![](http://aanipaat.net/photos/aanipaat/pienet/teroh_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/teroh_pieni.jpg) <br />
 **Tero "Haryu" Harju**<br />
 Tero osaa heittää tosta vaan bluussia harpulla, metallicaa ilmakitaralla tai jatsia nopalla. Mainio mies, jonka mottona: "Ei meillä tämmöstä Puusaaresa!"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/mika_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/mika_pieni.jpg) <br />
 **Mika "Miguli" Jäger**<br />
 Mika laulaa yhtä aikaa korkialta ja matalalta. Lisäksi hänellä on bassoksi poikkeuksellisen laaja tavuvalikoima. Häneltä sujuu sekä ”pam” että ”pom” ilman epäuskoista pälyilyä. Elämässä ohjenuorana on aina ollut: ”Ei koriasta naamasta monta velliä keitetä!”
 
-![](http://aanipaat.net/photos/aanipaat/pienet/markus_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/markus_pieni.jpg) <br />
 **Markus "Make" Kainu**<br />
 Suunnistaa sukkelasti, kokkaa taitavasti, ja katoaa pyöränsä kanssa auringonlaskuun. Elämänohjeena: "Ko isse tekee ni saa mitä tulee."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/lauri_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/lauri_pieni.jpg) <br />
 **Lauri "Late" Koskimaa**<br />
 Late, liukas luikku, raatavi pellolla kuin sen seitsemän karhua. Motto: "Maastavetoon se pieniki ponnistaa – törkiän kolokosti!"
 
-![](http://aanipaat.net/photos/aanipaat/pienet/toni_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/toni_pieni.jpg) <br />
 **Toni "Toni" Mikkola**<br />
 Mies joka suunnittelee kelluvia kaivureita ei paljon muita perusteluja kaipaa. Tosimies isolla K:lla! Motto: "Hoo, minä oon Toni."
 
-![](http://aanipaat.net/photos/aanipaat/pienet/joni_pieni.jpg) <br />
+![](kuvat/pienet_naamakuvat/joni_pieni.jpg) <br />
 **Joni "Jonde" Teirikangas**<br />
 Jos kysytte, onko tämä se Joni, joka liitty kuorhon 2009 ja jonka esittelyä justhan luet, ni on se! Sama mies eikä oo muuttunu yhtään siitä ko viimeks olthin naisisa Evijärvellä. Motto: "Olokhon ny nuin kirkolle asti."
 
@@ -227,7 +227,7 @@ Tunnelmallisen miehisen realismin lisäksi keikoilla voi nauttia tasokkaasta mie
 
 Tervetuloa kuuntelemaan Äänipäiden päiden ääniä elävänä! Tarkista tuoreimmat keikkapaikat, hukkaa kompassisi ja eksy paikalle. Takaamme, että kuulet ääniä päässäsi vielä pitkään eikä mikään ole enää entisellään. -->
 
-<!-- 
+<!--
 # Kuvat
 
 ## PR-kuvat
