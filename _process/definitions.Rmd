@@ -1,0 +1,14 @@
+---
+layout: "`r paste0("default_",region_to_report)`"
+title:  Definitions
+group: "`r paste0("meta_page_",region_to_report)`"
+---
+
+`r paste0('<div class="page-header"><h2 id="">',region_name,'</h2></div>')`
+
+
+```{r}
+source(paste0(root.dir,"input/code/code_definitions.R"))
+
+```
+

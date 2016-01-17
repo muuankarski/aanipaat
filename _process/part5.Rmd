@@ -1,0 +1,182 @@
+---
+layout: "`r paste0("default_",region_to_report)`"
+title:  The setting
+group: "`r paste0("page_",region_to_report)`"
+---
+
+`r paste0('<div class="page-header"><h2 id="">',region_name,'</h2></div>')`
+
+<!-- % -->
+<!-- % PPPPPPPPPPPPPPPPP                                               tttt          555555555555555555 -->
+<!-- % P::::::::::::::::P                                           ttt:::t          5::::::::::::::::5 -->
+<!-- % P::::::PPPPPP:::::P                                          t:::::t          5::::::::::::::::5 -->
+<!-- % PP:::::P     P:::::P                                         t:::::t          5:::::555555555555 -->
+<!-- %   P::::P     P:::::Paaaaaaaaaaaaa  rrrrr   rrrrrrrrr   ttttttt:::::ttttttt    5:::::5 -->
+<!-- %   P::::P     P:::::Pa::::::::::::a r::::rrr:::::::::r  t:::::::::::::::::t    5:::::5 -->
+<!-- %   P::::PPPPPP:::::P aaaaaaaaa:::::ar:::::::::::::::::r t:::::::::::::::::t    5:::::5555555555 -->
+<!-- %   P:::::::::::::PP           a::::arr::::::rrrrr::::::rtttttt:::::::tttttt    5:::::::::::::::5 -->
+<!-- %   P::::PPPPPPPPP      aaaaaaa:::::a r:::::r     r:::::r      t:::::t          555555555555:::::5 -->
+<!-- %   P::::P            aa::::::::::::a r:::::r     rrrrrrr      t:::::t                      5:::::5 -->
+<!-- %   P::::P           a::::aaaa::::::a r:::::r                  t:::::t                      5:::::5 -->
+<!-- %   P::::P          a::::a    a:::::a r:::::r                  t:::::t    tttttt5555555     5:::::5 -->
+<!-- % PP::::::PP        a::::a    a:::::a r:::::r                  t::::::tttt:::::t5::::::55555::::::5 -->
+<!-- % P::::::::P        a:::::aaaa::::::a r:::::r                  tt::::::::::::::t 55:::::::::::::55 -->
+<!-- % P::::::::P         a::::::::::aa:::ar:::::r                    tt:::::::::::tt   55:::::::::55 -->
+<!-- % PPPPPPPPPP          aaaaaaaaaa  aaaarrrrrrr                      ttttttttttt       555555555 -->
+<!-- % -->
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %% PART5 - Custom stuff for Coffee book -->
+
+
+```{r setup-code-part5}
+knitr::read_chunk(paste0(root.dir,"input/code/code_part5.R"))
+```
+
+```{r part5_setup, eval=include_part5}
+```
+
+
+
+
+<!-- %    ___                                  _ -->
+<!-- %   / _ \  __   __   ___   _ __  __   __ (_)   ___  __      __ -->
+<!-- %  | | | | \ \ / /  / _ \ | '__| \ \ / / | |  / _ \ \ \ /\ / / -->
+<!-- %  | |_| |  \ V /  |  __/ | |     \ V /  | | |  __/  \ V  V / -->
+<!-- %   \___/    \_/    \___| |_|      \_/   |_|  \___|   \_/\_/ -->
+<!-- % -->
+
+
+
+```{r P5overTEXT, eval=P5over, short_text_ChartPage=P5over}
+```
+
+```{r P5overData,results='hide', cache=cache_part5}
+```
+
+
+```{r P5overTOPRIGHT, eval=P5over, top_right_plot=P5over, fig.height=top_right_plot_height, fig.width=top_right_plot_width}
+```
+
+
+```{r P5overLEFT, eval=P5over, left_plot=P5over, fig.height=left_plot_height, fig.width=left_plot_width}
+```
+
+```{r P5overRIGHT, eval=P5over, right_plot=P5over, fig.height=left_plot_height, fig.width=left_plot_width}
+```
+
+
+```{r P5overBOTTOM, eval=P5over, bottom_plot=P5over, fig.height=bottom_plot_height, fig.width=bottom_plot_width}
+```
+
+
+```{r P5overMAP, eval=P5over, map_plot=P5over, fig.width=map_plot_width, fig.height= map_plot_height}
+```
+
+
+
+<!-- %   _____ -->
+<!-- %  | ____|   ___    ___    _ __     ___    _ __ ___    _   _ -->
+<!-- %  |  _|    / __|  / _ \  | '_ \   / _ \  | '_ ` _ \  | | | | -->
+<!-- %  | |___  | (__  | (_) | | | | | | (_) | | | | | | | | |_| | -->
+<!-- %  |_____|  \___|  \___/  |_| |_|  \___/  |_| |_| |_|  \__, | -->
+<!-- %                                                      |___/ -->
+<!-- % -->
+
+
+```{r P5econTEXT, eval=P5econ, short_text_ChartPage=P5econ}
+```
+
+```{r P5econTOPRIGHT, eval=P5econ, top_right_plot=P5econ, fig.height=top_right_plot_height, fig.width=top_right_plot_width}
+```
+
+
+```{r P5econLEFT, eval=P5econ, left_plot=P5econ, fig.height=left_plot_height, fig.width=left_plot_width}
+```
+
+```{r P5econRIGHT, eval=P5econ ,right_plot=P5econ, fig.height=right_plot_height, fig.width=right_plot_width}
+```
+
+
+```{r P5econBOTTOM_data, eval=P5econ, cache=cache_part5}
+```
+
+
+
+```{r P5econBOTTOM, eval=P5econ, bottom_plot=P5econ, fig.height=bottom_plot_height, fig.width=bottom_plot_width}
+```
+
+
+```{r P5econMAP, eval=P5econ, map_plot=P5econ, fig.width=map_plot_width, fig.height= map_plot_height}
+```
+
+
+<!-- % -->
+<!-- %   ____                                  _ -->
+<!-- %  |  _ \    ___   __   __   ___   _ __  | |_   _   _ -->
+<!-- %  | |_) |  / _ \  \ \ / /  / _ \ | '__| | __| | | | | -->
+<!-- %  |  __/  | (_) |  \ V /  |  __/ | |    | |_  | |_| | -->
+<!-- %  |_|      \___/    \_/    \___| |_|     \__|  \__, | -->
+<!-- %                                               |___/ -->
+
+
+```{r P5povertyTEXT, eval=P5poverty, short_text_ChartPage=P5poverty}
+```
+
+
+```{r P5povertyData,results='hide', eval=P5poverty, cache=cache_part5}
+```
+
+
+
+```{r P5povertyTOPRIGHT, eval=P5poverty, top_right_minitable=P5poverty}
+```
+
+
+```{r P5povertyLEFT, eval=P5poverty, left_plot=P5poverty, fig.height=left_plot_height, fig.width=left_plot_width}
+```
+
+```{r P5povertyRIGHT, eval=P5poverty ,right_plot=P5poverty, fig.height=right_plot_height, fig.width=right_plot_width}
+```
+
+
+```{r P5povertyBOTTOM, eval=P5poverty, bottom_plot=P5poverty, fig.height=bottom_plot_height, fig.width=bottom_plot_width}
+```
+
+
+```{r P5povertyMAP, eval=P5poverty, map_plot=P5poverty, fig.width=map_plot_width, fig.height= map_plot_height}
+```
+
+
+
+<!-- %   ____   _        _                                                                                         _ -->
+<!-- %  |  _ \ (_)  ___ | |_  __ _  _ __  _   _    ___  _ __    ___  _ __  __ _  _   _   ___  _   _  _ __   _ __  | | _   _ -->
+<!-- %  | | | || | / _ \| __|/ _` || '__|| | | |  / _ \| '_ \  / _ \| '__|/ _` || | | | / __|| | | || '_ \ | '_ \ | || | | | -->
+<!-- %  | |_| || ||  __/| |_| (_| || |   | |_| | |  __/| | | ||  __/| |  | (_| || |_| | \__ \| |_| || |_) || |_) || || |_| | -->
+<!-- %  |____/ |_| \___| \__|\__,_||_|    \__, |  \___||_| |_| \___||_|   \__, | \__, | |___/ \__,_|| .__/ | .__/ |_| \__, | -->
+<!-- %                                    |___/                           |___/  |___/              |_|    |_|        |___/ -->
+
+
+```{r P5desTEXT, eval=P5des, short_text_ChartPage=P5des}
+```
+
+```{r P5desData,results='hide', eval=P5des, cache=cache_part5}
+```
+
+
+```{r P5desTOPRIGHT, eval=P5des, top_right_plot=P5des, fig.height=top_right_plot_height, fig.width=top_right_plot_width}
+```
+
+```{r P5desLEFT, eval=P5des, left_plot=P5des, fig.height=left_plot_height, fig.width=left_plot_width}
+```
+
+```{r P5desRIGHT, eval=P5des ,right_plot=P5des, fig.height=right_plot_height, fig.width=right_plot_width}
+```
+
+
+```{r P5desBOTTOM, eval=P5des, bottom_plot=P5des, fig.height=bottom_plot_height, fig.width=bottom_plot_width}
+```
+
+
+```{r P5desMAP, eval=P5des, map_plot=P5des, fig.width=map_plot_width, fig.height= map_plot_height}
+```
