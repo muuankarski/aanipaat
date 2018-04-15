@@ -69,17 +69,21 @@ puh: +47 40485651
 
 Levyä on saatavilla kaikilta hyvinvarustetuilta äänipäiltä! Ulkomailla ja syrjäseuduilla asuvien on mahdollista tilata levyä osoitteesta: levy2012@aanipaat.net
 
-1. [Rakkauden Raippa](/kuvat/julkaisut/PKPKM_01.pdf)
-2. [MM 95](/kuvat/julkaisut/PKPKM_02.pdf)
-3. [Kesä Vetelissä](/kuvat/julkaisut/PKPKM_03.pdf)
-4. [Meteorologiaa](/kuvat/julkaisut/PKPKM_04.pdf)
-5. [Tax Free](/kuvat/julkaisut/PKPKM_05.pdf)
-6. [Kaustisilla](/kuvat/julkaisut/PKPKM_06.pdf)
-7. [Isojen miesten ilma (Ukkonen)](/kuvat/julkaisut/PKPKM_07.pdf)
-8. [Mies ja siideri](/kuvat/julkaisut/PKPKM_08.pdf)
-9. [Enon veneessä](/kuvat/julkaisut/PKPKM_09.pdf)
-10. [Kahvihuoneilmiö](/kuvat/julkaisut/PKPKM_10.pdf)
-11. [Panis Angelicus](/kuvat/julkaisut/PKPKM_11.pdf)
+1. [Rakkauden Raippa](/sanat.html#rakkauden-raippa)
+2. [MM 95](/sanat.html#mm-95)
+3. [Kesä Vetelissä](/sanat.html#kesä-vetelissä)
+4. [Meteorologiaa](/sanat.html#meteorologiaa)
+5. [Tax Free](/sanat.html#tax-free)
+6. [Kaustisilla](/sanat.html#kaustisilla)
+7. [Isojen miesten ilma (Ukkonen)](/sanat.html#isojen-miesten-ilma-ukkonen)
+8. [Mies ja siideri](/sanat.html#mies-ja-siideri)
+9. [Enon veneessä](/sanat.html#enon-veneessä)
+10. [Kahvihuoneilmiö](/sanat.html#kahvihuoneilmiö)
+11. [Panis Angelicus](/sanat.html#panis-angelicus)
+
+
+
+
 
 ## Isojen miesten ilma (2004)
 
