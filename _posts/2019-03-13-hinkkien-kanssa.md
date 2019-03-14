@@ -17,7 +17,7 @@ Pinkit Hinkit olivat erinomaisessa vedossa ja keikkapaikka, [ravintola Suomalain
 
 Lopuksi vielä pieni pätkä elävää kuvaa Panis Angelicuksesta ja tamperelaisesta naurusta!
 
- <video width="640" controls>
+ <video width="100%" controls>
   <source src="http://aanipaat.net/kuvat/videot/panis_klippi_tre_20190309.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
